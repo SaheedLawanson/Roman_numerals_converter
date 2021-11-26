@@ -13,7 +13,7 @@ to be converted into a roman numeral
 Algorithm
 
 1.	A roman numeral dictionary is defined (from highest to lowest), the keys are the roman 
-	numerals and the values are the numerical equivalent in cardinal numbers.
+	numerals and the values are the numerical equivalent in cardinal numbers e.g. 1, 2, 3, 4, 5 etc.
 2.	An empty string called "roman_num" is initialized
 3.	A for loop iterates through all the keys in the dictionary and searches for the first value
 	that is lower or equal to the num variable
