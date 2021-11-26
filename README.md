@@ -17,6 +17,6 @@ Algorithm
 2.	An empty string called "roman_num" is initialized
 3.	A for loop iterates through all the keys in the dictionary and searches for the first value
 	that is lower or equal to the num variable
-4.	Once the value is found, it is added to the end of the "roman_num" variable, the value is 
+4.	Once a value is found, the key is concatenated with the "roman_num" variable, the value is 
 	subtracted and the loop continues until the "num" parameter is 0
 5.	The "roman_num" variable is returned
