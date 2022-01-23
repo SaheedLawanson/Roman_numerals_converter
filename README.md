@@ -1,8 +1,8 @@
-Built with
+# Built with
 - JavaScript
 
 
-Overview
+# Overview
 
 The objective of the roman_numeral_converter project is to convert integers into roman numerals
 
@@ -10,7 +10,7 @@ The convertToNum function takes a single argument: num of the int data type whic
 to be converted into a roman numeral
 
 
-Algorithm
+# Algorithm
 
 1.	A roman numeral dictionary is defined (from highest to lowest), the keys are the roman 
 	numerals and the values are the numerical equivalent in cardinal numbers e.g. 1, 2, 3, 4, 5 etc.
